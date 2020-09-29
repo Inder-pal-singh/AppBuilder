@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/editTextTextPersonName4"
+    style="@style/signup_text_box"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:autofillHints=""
+    android:ems="10"
+    android:hint="@string/your_name"
+    android:inputType="textPersonName"
+    android:textColorHint="#B6B5B5"
+    android:textSize="20sp"
+    tools:showIn="@layout/activity_main" />

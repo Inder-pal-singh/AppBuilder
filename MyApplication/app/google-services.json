@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "776904164734",
+    "firebase_url": "https://deliverdelights-8000b.firebaseio.com",
+    "project_id": "deliverdelights-8000b",
+    "storage_bucket": "deliverdelights-8000b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776904164734:android:689c7a7b2825cd055d5f2f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776904164734-scj4k1bg901p8rnn61eiudlsgiiburup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFhPCbOGm-0etxQS5OPQqLNWnN5JOEQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776904164734-scj4k1bg901p8rnn61eiudlsgiiburup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776904164734:android:9a4fa76ae135fedf5d5f2f",
+        "android_client_info": {
+          "package_name": "com.net17.admmindd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776904164734-scj4k1bg901p8rnn61eiudlsgiiburup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFhPCbOGm-0etxQS5OPQqLNWnN5JOEQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776904164734-scj4k1bg901p8rnn61eiudlsgiiburup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776904164734:android:fd77488dc76beeb05d5f2f",
+        "android_client_info": {
+          "package_name": "com.net17.deligh_deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776904164734-3eaapdoeas6nial3cr6te65qmgg2s01k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.net17.deligh_deliver",
+            "certificate_hash": "62240998ced3ab5179066210ca349e0f2871eda2"
+          }
+        },
+        {
+          "client_id": "776904164734-h6p403l4vf8mta03ic4lu5cp2vjqd2dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.net17.deligh_deliver",
+            "certificate_hash": "d73cd370588b5fdd27b9ac894518f114c0687b69"
+          }
+        },
+        {
+          "client_id": "776904164734-k6l8raplrh12lblro2uikc7nibsu0s96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.net17.deligh_deliver",
+            "certificate_hash": "f3104f8379b05e2e833316baa77b122595de908f"
+          }
+        },
+        {
+          "client_id": "776904164734-scj4k1bg901p8rnn61eiudlsgiiburup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFhPCbOGm-0etxQS5OPQqLNWnN5JOEQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776904164734-scj4k1bg901p8rnn61eiudlsgiiburup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

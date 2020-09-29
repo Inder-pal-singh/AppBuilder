@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Hello</string>
+    <string name="todo">todo</string>
+    <string name="full">Full</string>
+    <string name="clickon">clickon</string>
+    <string name="welcome_to_easemyshop">Welcome to EaseMyShop</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="let_s_star" />
+    <string name="your_name">Your Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="textview">TextView</string>
+    <string name="codebyinder">CodeByInder</string>
+    <string name="signed_in">Signed IN</string>
+    <string name="button">Button</string>
+    <string name="orders">Orders</string>
+</resources>
